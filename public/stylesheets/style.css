@@ -1,0 +1,146 @@
+body {
+  padding: 10px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.profile-image {
+  height: 2.0rem;
+}
+
+.number-notification {
+  border-radius: 4px;
+  background-color: red;
+  text-align: center;
+  height: 16%;
+  width: 100%;
+}
+
+.number {
+  color: white;
+  font-size: xx-small;
+  font-weight: bold;
+}
+
+.number-position {
+  position: relative;
+  bottom: 32px;
+  left: 14px;
+}
+
+.align-content {
+  text-align: right;
+}
+
+.notification-image {
+  position: absolute;
+}
+
+.left-bar {
+  /* background-color: black; */
+  max-width: 4rem;
+  padding: unset;
+}
+
+.left-bottom-bar {
+   background-color: black;
+   max-width: 3rem;
+   padding: unset;
+}
+
+.icon-size {
+  font-size: xx-large;
+  color: gray;
+}
+
+.title {
+  font-size: large;
+  color: gray;
+  vertical-align: super;
+}
+
+.container-set {
+  padding-left: 0.5rem;
+}
+
+.col-preset {
+  padding: unset;
+}
+
+.content-background {
+  height: 1200px;
+  width: 600px;
+  background: url(../images/wave.png) left top no-repeat, 
+  url(../images/wave\ 2\ copy.svg) right top no-repeat, 
+  url(../images/Group\ 3.svg) bottom right no-repeat, 
+  url(../images/element.png) bottom center no-repeat,
+  url(../images/element\ 11\ copy.png) left center content-box no-repeat,
+  url(../images/element\ 11\ copy.png) top center no-repeat;
+  z-index: -1;
+}
+
+.inner-block-property {
+  background-color: white;
+  border-radius: 15px;
+  opacity: 0.92;
+}
+
+.inner-block-profile-image {
+  text-align: right;
+}
+
+.username-font {
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.user-details {
+  color: gray;
+  font-weight: 100;
+  font-size: smaller;
+}
+
+.active-label {
+  background-color: #ff9800;
+  font-size: xx-small;
+  color: white;
+  padding: 0.5% 2% 0.5% 2%;
+  border-radius: 5px;
+}
+
+.right-column {
+  text-align: right;
+}
+
+.pencil-align {
+  text-align: center;
+}
+
+.pencil-color {
+  color: gray;
+}
+
+.group-pencil {
+  color: gray;
+}
+
+.group-label {
+  text-align: left;
+  font-weight: 600;
+}
+
+.edit-align {
+  text-align: right;
+}
+
+.order-label-name {
+  font-size: xx-small;
+  color: gray;
+}
+
+.order-label-value {
+  font-size: small;
+}
